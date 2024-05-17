@@ -7,3 +7,4 @@ google-generativeai>=0.3.0
 matplotlib
 python-dotenv
 llama-index-llms-gemini
+langchain
