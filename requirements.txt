@@ -8,3 +8,6 @@ matplotlib
 python-dotenv
 llama-index-llms-gemini
 langchain
+
+llama-index-vector-stores-qdrant
+fastembed
