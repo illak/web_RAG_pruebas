@@ -11,3 +11,6 @@ langchain
 
 llama-index-vector-stores-qdrant
 fastembed
+
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
