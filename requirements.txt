@@ -14,3 +14,11 @@ fastembed
 
 llama-index-embeddings-huggingface
 llama-index-embeddings-instructor
+
+spacy
+
+llama-index-readers-google
+llama-index-readers-remote
+
+llama-index-readers-file 
+pymupdf
